@@ -16,25 +16,8 @@ The BP Chat application offers a streamlined approach to testing and discussing 
 - **Lightweight Design**: Focused on minimal dependencies and efficient performance.
 - **Real-Time Messaging**: Supports simultaneous message sending and receiving.
 
-## Current Progress
-
-As of now, the app is functional with:
-1. User-friendly prompts for username and destination EID.
-2. Real-time messaging with message display in the terminal.
-3. Integration with the `bpsocket` API for seamless communication over BP.
-
-Future updates will enhance usability and extend functionality to match modern P2P applications.
-
 ## Prerequisites
-
 To run this application, you need:
 1. The [bp-sockets repository](https://github.com/juanfraire/bp-sockets) properly installed and configured.
 2. The BP Sockets kernel module and daemon running on the system.
 3. A C compiler like GCC or Clang with support for `bpsocket`.
-
-## How to Use
-
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/<your-username>/bp-chat-app.git
-   cd bp-chat-app
