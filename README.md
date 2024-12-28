@@ -5,11 +5,7 @@ This project aims to build a **lightweight messaging application** with the func
 **Start Date:** 12/14  
 **Current Status:** Ongoing Development  
 
-## Overview
-
-The BP Chat application offers a streamlined approach to testing and discussing the `bpsocket` API for real-world use cases. By building a more interactive and practical chat tool, the application identifies areas where the API can be improved to better support modern P2P messaging features.
-
-## Features
+## To Build Features
 
 - **P2P Communication**: Exchange messages between peers using `bpsocket`.
 - **Interactive Terminal UI**: Easy-to-use text-based interface for sending and receiving messages.
