@@ -1,6 +1,6 @@
 # Lightweight BP Chat Application
 
-This project aims to build a **lightweight messaging application** with the functionality and feasibility of mainstream peer-to-peer (P2P) chat applications. It leverages the `bpsocket` interface to demonstrate communication over the Bundle Protocol (BP). 
+This project aims to build a **lightweight messaging application** with the functionality and feasibility of mainstream peer-to-peer (P2P) chat applications. It leverages the [bp-sockets repository](https://github.com/juanfraire/bp-sockets) interface to demonstrate communication over the Bundle Protocol (BP). 
 
 **Start Date:** 12/14  
 **Current Status:** Ongoing Development  
